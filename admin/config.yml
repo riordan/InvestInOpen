@@ -5,6 +5,7 @@ backend:
     site_domain: compassionate-colden-9983ca.netlify.com
   
 media_folder: "assets/img/"
+publish_mode: editorial_workflow
   
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
