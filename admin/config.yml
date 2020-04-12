@@ -4,7 +4,7 @@ backend:
     branch: master
     site_domain: compassionate-colden-9983ca.netlify.com
   
-  media_folder: "assets/img/"
+media_folder: "assets/img/"
   
   collections:
     - name: "blog" # Used in routes, e.g., /admin/collections/blog
